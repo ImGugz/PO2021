@@ -3,7 +3,7 @@
 ## Context
 Project assigned from PO (Object-Oriented Programming) in the first semester of 2020/2021 (IST).
 
-## Goa
+## Goal
 Develop a distribution company's management application. This company rewards "good customers", based on what/how much they purchase.
 
 ## Features
