@@ -125,7 +125,7 @@ public class Client implements ProductObserver {
      * @return the total paid in sales by the client.
      */
     public int getTotalPaid() {
-        return (int) _totalPaid;
+        return (int) Math.round(_totalPaid);
     }
 
     /**

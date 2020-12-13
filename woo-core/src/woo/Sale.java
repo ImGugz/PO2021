@@ -130,7 +130,7 @@ public class Sale extends Transaction {
     @Override
     public String toString() {
         return getID() + "|" + getClient().getID() + "|" + getProduct().getID() + "|" + 
-        getProductQuantity() + "|" + getBasePrice() + "|" + (int) getTotalPrice() + "|" + getLimitDate()
+        getProductQuantity() + "|" + getBasePrice() + "|" + (int) Math.round(getTotalPrice()) + "|" + getLimitDate()
         + (getPaymentStatus() == true ? "|" + getPaymentDate() : "");
     }
 }
