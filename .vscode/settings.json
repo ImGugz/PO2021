@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "po-uuilib.jar",
-        "woo-app/woo-app.jar",
-        "woo-core/woo-core.jar"
-    ]
-}
