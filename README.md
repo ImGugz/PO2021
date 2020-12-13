@@ -5,9 +5,9 @@ Project assigned from PO (Object-Oriented Programming) in the first semester of 
 
 ## Features
 Develop a distribution company's management application. This company rewards "good customers", based on what/how much they purchase.\
-This application features:\
-- Register/Change product's data to sell;\
-- Register/Change client's data\
-- Register/Change supplier's data of selling products;\
-- Register/Change order and sale transactions;\
+This application features:
+- Register/Change product's data to sell;
+- Register/Change client's data
+- Register/Change supplier's data of selling products;
+- Register/Change order and sale transactions;
 - Search various stored information. 
