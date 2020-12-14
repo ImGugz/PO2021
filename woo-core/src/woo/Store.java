@@ -6,16 +6,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.Serializable;
 import java.io.FileReader;
-import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
 
 /**
  * Class Store implements a store.
